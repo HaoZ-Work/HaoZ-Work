@@ -1,16 +1,20 @@
-### Hi there 👋
+- 👋 Hello there, I'm Hao.
+- 👀 Currently, I'm pursuing my Master's degree in Computer Science at TU Darmstadt
+- 🌱 My area of interest lies in Natural Language Processing (NLP).
+- 📫 How to reach me : 
+     email: Hao.Z@outlook.de
 
-<!--
-**HaoZ-Work/HaoZ-Work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex; flex-direction: row;">
+     
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=HaoZ-Work&theme=radical" />  &nbsp;
+ <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=HaoZ-Work&theme=radical" />
+
+</div>
+
+<div align="left">
+
+<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaoZ-Work&theme=radical&layout=compact&hide=jupyter%20notebook" />
+
+</div>
