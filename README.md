@@ -1,8 +1,10 @@
 - 👋 Hello there, I'm Hao.
 - 👀 Currently, I'm pursuing my Master's degree in Computer Science at TU Darmstadt
 - 🌱 My area of interest lies in Natural Language Processing (NLP).
-- 📫 How to reach me : 
-     email: Hao.Z@outlook.de
+📫 How to reach me: 
+- Email: [Hao.Z@outlook.de](mailto:Hao.Z@outlook.de)
+- LinkedIn: [Hao Zhang](https://www.linkedin.com/in/%E6%B5%A9-%E5%BC%A0-730426223/)
+- Website: [haoz-work.github.io](https://haoz-work.github.io/)
 
 
 
