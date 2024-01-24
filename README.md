@@ -4,7 +4,7 @@
 - 📫 How to reach me: 
      - Email: [Hao.Z@outlook.de](mailto:Hao.Z@outlook.de)
      - LinkedIn: [Hao Zhang](https://www.linkedin.com/in/%E6%B5%A9-%E5%BC%A0-730426223/)
-     - Portfolio : [haoz-work.github.io](https://haoz-work.github.io/)
+     - CV : [haoz-work.github.io](https://haoz-work.github.io/)
 
 
 
