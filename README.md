@@ -8,7 +8,6 @@
 
 <div style="display: flex; flex-direction: row;">
      
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=HaoZ-Work&theme=radical" />  &nbsp;
  <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=HaoZ-Work&theme=radical" />
 
 </div>
