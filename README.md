@@ -1,5 +1,4 @@
 - 👋 Hello there, I'm Hao.
-- 👀 Currently, I'm pursuing my Master's degree in Computer Science at TU Darmstadt
 - 📫 How to reach me: 
      - Email: [Hao.Z@outlook.de](mailto:Hao.Z@outlook.de)
      - LinkedIn: [Hao Zhang](https://www.linkedin.com/in/%E6%B5%A9-%E5%BC%A0-730426223/)
